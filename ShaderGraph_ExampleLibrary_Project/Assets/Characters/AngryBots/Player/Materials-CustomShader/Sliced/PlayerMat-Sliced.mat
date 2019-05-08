@@ -5,7 +5,8 @@ Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: PlayerMat-Sliced
   m_Shader: {fileID: 4800000, guid: 6a9e9995ed8364628ac2b575395af4d0, type: 3}
   m_ShaderKeywords: 
@@ -35,6 +36,6 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_1CBCCE5F: 0.6
-    - Vector1_B08694A8: 4.77
+    - Vector1_1CBCCE5F: 0.433
+    - Vector1_B08694A8: 5.13
     m_Colors: []

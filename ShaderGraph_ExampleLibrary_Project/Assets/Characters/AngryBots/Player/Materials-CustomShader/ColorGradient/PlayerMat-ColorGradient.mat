@@ -4,8 +4,9 @@
 Material:
   serializedVersion: 6
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: PlayerMat-ColorGradient
   m_Shader: {fileID: 4800000, guid: bf104a76d87034ae29cbad2322f77965, type: 3}
   m_ShaderKeywords: 
@@ -19,8 +20,8 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - Vector1_4EEF0B5F: 3
-    - Vector1_9EB52FEB: 0.5
+    - Vector1_4EEF0B5F: 5.63
+    - Vector1_9EB52FEB: -1.1
     m_Colors:
     - Color_7C9AD720: {r: 1, g: 0, b: 0.33732793, a: 1}
     - Color_F18C77F7: {r: 1, g: 0.7052165, b: 0, a: 1}
